@@ -33,6 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
-cd filter navid
-python navid.py
+       
+Command+I (Mac) or Ctrl+I (Windows/Linux)*This text is italicized*This text is italicized   echo test, and deploy your project.
